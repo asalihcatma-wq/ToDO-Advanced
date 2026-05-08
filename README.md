@@ -30,4 +30,4 @@ npm run dev
 
 ## Live Demo
 
-[https://todo-microsoft-rust.vercel.app](https://todo-microsoft-rust.vercel.app)
+https://todo-microsoft-rust.vercel.app
