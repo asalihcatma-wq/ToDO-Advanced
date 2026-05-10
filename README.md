@@ -21,13 +21,6 @@ A task management app inspired by Microsoft To Do. I built it using React and Fi
 - Tailwind CSS
 - Lucide React (icons)
 
-## Setup
-
-```bash
-npm install
-npm run dev
-```
-
 ## Live Demo
 
 https://todo-microsoft-rust.vercel.app
